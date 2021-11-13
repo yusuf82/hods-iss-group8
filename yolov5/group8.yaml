@@ -1,5 +1,5 @@
-train: ~/sharedfolder/AY22 Sem 1/04. PM/Project Dataset/Program/custom_dataset/train/
-val: ~/sharedfolder/AY22 Sem 1/04. PM/Project Dataset/Program/custom_dataset/val/  
+train: ~/Program/custom_dataset/train/
+val: ~/Program/custom_dataset/val/  
 
 nc: 13  # number of classes
 names: ['Axis', 'Bearing', 'Bearing_Box', 'Distance_Tube', 'F20_20_B', 'F20_20_G', 'S40_40_B', 'S40_40_G', 
